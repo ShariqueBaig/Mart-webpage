@@ -1,0 +1,46 @@
+.center{
+    text-align: center;
+}
+
+.blackbag{
+    background-color: rgb(185, 92, 92);
+}
+
+*{
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+}
+
+.mart{
+    background-image: url('mart.png');
+    background-size: auto;
+}
+
+.colorblue{
+    color: darkblue;
+}
+
+.bagcolorblue{
+    background-color: aqua;
+}
+
+table, th, td {
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  caption{
+    border-style: solid;
+  border-width: 1px;
+  }
+
+#workinghours{
+    background-color: burlywood;
+}
+
+#contactus{
+    background-color: darkgreen;
+}
