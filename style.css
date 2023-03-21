@@ -15,6 +15,7 @@
 
 .mart{
     background-image: url('mart.png');
+    background-attachment: fixed;
     background-size: auto;
 }
 
@@ -43,4 +44,13 @@ table, th, td {
 
 #contactus{
     background-color: darkgreen;
+}
+
+.cen{
+
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1rem;
+    border-left: 1px solid #333;
+    border-right: 1px solid #333;
 }
